@@ -7,3 +7,6 @@ Extractive summarization using sentence scoring
     nltk >= 3.0
     
 Set the DIR_PATH in config.py     
+
+### Run
+     run.py
